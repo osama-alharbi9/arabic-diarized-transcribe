@@ -1,0 +1,8 @@
+.env
+.venv/
+out/
+__pycache__/
+.ruff_cache/
+
+# Recordings stay local
+samples/
